@@ -1,15 +1,11 @@
 # 牡丹智能对话系统
 
 ## 项目资源下载
-- 完整项目代码包：[百度网盘链接](通过网盘分享的文件：牡丹作品 链接: https://pan.baidu.com/s/1wKuYYoeXhD80HnuSkbSl6w 提取码: h54t)
 - 模型文件：[百度网盘链接](通过网盘分享的文件：models.zip 链接: https://pan.baidu.com/s/15ZyH0jYMjHNLNI5aHrFuNQ 提取码: 41mp)
 - data数据文件(keywords和faiss_data以及index)：[百度网盘链接](通过网盘分享的文件：data.zip 链接: https://pan.baidu.com/s/1ccoQmU1BSTbK_wJVYe5hCw 提取码: y3ke)
 - 音频文件：[百度网盘链接](通过网盘分享的文件：audio.zip 链接: https://pan.baidu.com/s/1TVteiziRqByfiQcEVKt1sw 提取码: k8au)
-- heritage知识图谱界面代码：[百度网盘链接](通过网盘分享的文件：heritage.zip 链接: https://pan.baidu.com/s/1md2ykPZXhQ9WBt66qrs6Fg 提取码: y9hv)
 - icon图标文件：[百度网盘链接](通过网盘分享的文件：icon.zip 链接: https://pan.baidu.com/s/1E69fO_b9Gp7ohXYnUOKzCQ 提取码: saz2)
-- process形象文件：[百度网盘链接](通过网盘分享的文件：process.zip 链接: https://pan.baidu.com/s/1zQyRXYG6JfvfzVDprm96cQ 提取码: wsv6)
 - utils工具包文件：[百度网盘链接](通过网盘分享的文件：utils.zip 链接: https://pan.baidu.com/s/1pRgEfW88VZ_UVfZ-DQU3jQ 提取码: 7b9k)
-- web_front前端界面文件：[百度网盘链接](通过网盘分享的文件：web_front.zip 链接: https://pan.baidu.com/s/12q_thQlc4D848W8BuU2OHQ 提取码: j7f4 )
 
 
 ## 项目架构
